@@ -8,6 +8,6 @@ Saatlik vergi sistemi.
 - Oyuncu oyuna her giriş yaptığında bu haftaki saatlik verginin ne kadar olduğunun bildirimi gider.
 
 Gereksinimler:
-- JayMontana36/mythic_notify
+- https://github.com/JayMontana36/mythic_notify
 
-Bu ve bunun gibi ücretli/ücretsiz scriptlerimi paylaştığım, FiveM ile ilgili hızlı teknik destek alabileceğiniz, script fikri/önerisinde bulunabileceğiniz discord adresime beklerim: Join the Utinax Developments Discord Server!
+Bu ve bunun gibi ücretli/ücretsiz scriptlerimi paylaştığım, FiveM ile ilgili hızlı teknik destek alabileceğiniz, script fikri/önerisinde bulunabileceğiniz discord adresime beklerim: https://discord.gg/kvfWuMj6FN
