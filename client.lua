@@ -18,7 +18,7 @@ AddEventHandler('esx:setJob', function(job)
     ESX.PlayerData.job = job
 end)
 
-AddEventHandler('esx:onPlayerSpawn', function()
+AddEventHandler('playerSpawned', function(spawn)
     if ESX.PlayerData.job.name == "police" or ESX.PlayerData.job.name == "ambulance" or ESX.PlayerData.job.name == "offpolice" or ESX.PlayerData.job.name == "offambulance" then
         exports['mythic_notify']:DoCustomHudText('inform', 'Bu haftaki saatlik vergi: '..Config.MemurVergi..'$', 7500)
     else
